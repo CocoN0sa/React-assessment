@@ -1,0 +1,29 @@
+.projects {
+  padding: 2rem;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.projects ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:10px;
+}
+
+.projects h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: pink;
+}
+.projects li{
+    list-style: none;
+    margin-bottom: 1rem;
+    padding: 3rem;
+    background-color: pink;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ 
+}
+
+
+
