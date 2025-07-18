@@ -1,6 +1,6 @@
 .projects {
   padding: 2rem;
-  background-color: black;
+  background-color:rgb(5, 5, 56);
   border-radius: 10px;
 }
 
@@ -13,14 +13,14 @@
 .projects h2 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: pink;
+  color: white;
 }
 .projects li{
     list-style: none;
     margin-bottom: 1rem;
     padding: 3rem;
-    background-color: pink;
-    border-radius: 5px;
+    background-color: white;
+    border-radius: 10%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
  
 }

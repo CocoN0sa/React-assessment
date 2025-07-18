@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 body{
-   background-color: #1e1e2f;
+  background: linear-gradient(135deg, #4e4376, #2b5876, #4e4376);
+
 }
 html {
   scroll-behavior: smooth;
