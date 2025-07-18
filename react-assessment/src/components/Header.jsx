@@ -10,7 +10,7 @@ function Header() {
         <nav className={styles.navbar}>
           <a href="#Home">Home</a>
           <a href="#About">About</a>
-          <a href="#Project">Projects</a>
+          <a href="#Projects">Projects</a>
           <a href="#Contact">Contact</a>
         </nav>
       </header>
