@@ -27,18 +27,20 @@ textarea {
   font-family: inherit;
   width: 50%;
   margin: auto;
-  background-color: white;
+  background-color: hite;
   margin-top: 10px;
 }
 
 button {
-  background-color: white;
+  background-color: rgb(12, 12, 81);
   color: white;
   border: none;
   padding: 0.75rem;
   border-radius: 5px;
   cursor: pointer;
   font-weight: bold;
+  width: 50%;
+  margin: auto;
 }
 
 button:hover {
